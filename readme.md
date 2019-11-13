@@ -3,6 +3,7 @@
 ### Assignment Instructions (Must be followed mandatorily)
 
 - *Read the given set of questions and solve them by writing queries using MySQL*
+- *Fork the above boilerplate and clone into your local machine*
 - *The Solution has to be written in keep-note.sql file*
 - *Queries should be wriiten in MySQL syntax*
 - *Do not use any IDE for generating the SQL queries. You need to write them manually*
