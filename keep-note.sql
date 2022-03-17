@@ -1,4 +1,3 @@
-
 create database assignment;    
 use assignment;    
 
@@ -178,4 +177,4 @@ create trigger del_user before delete on User FOR EACH ROW Begin delete from Use
  delete from NoteCategory where note_id=old.user_id;  END; //
 DELIMITER ;
 
-delete from User where user_id=1;
+delete from User where user_id=10003;
